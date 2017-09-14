@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/gnucva535gqroatb/branch/master??retina=true)](https://ci.appveyor.com/project/ryancbutler/pvsreplicate/branch/master)
+[![Build status](https://ci.appveyor.com/api/projects/status/gnucva535gqroatb/branch/master?retina=true)](https://ci.appveyor.com/project/ryancbutler/pvsreplicate/branch/master)
 ## Provisioning Services 7.x vDisk version Export and Import Script
 
 Keep PVS vDisk versioning consistent across multiple PVS sites and additional PVS farms
