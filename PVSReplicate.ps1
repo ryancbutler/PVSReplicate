@@ -45,7 +45,7 @@
    Requires: Powershell v3 or greater and Citrix PVS snapins
    If module fails to import run the following command. %systemroot%\Microsoft.NET\Framework64\v4.0.30319\installutil.exe "C:\Program Files\Citrix\Provisioning Services Console\Citrix.PVS.SnapIn.dll"
 .LINK
-   https://github.com/ryancbutler/XDReplicate
+   https://github.com/ryancbutler/PVSReplicate
 .PARAMETER PVSServers
    PVS Server hostnames that have access to additonal farms.
 .PARAMETER StorePath
