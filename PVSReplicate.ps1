@@ -1,6 +1,6 @@
 <#PSScriptInfo
 
-.VERSION 1.6.3
+.VERSION 1.6.4
 
 .GUID ae5930b7-9160-4a4f-9b65-88a1574eb06e
 
@@ -31,7 +31,11 @@
 07-27-17: Added 'disk' argument to copy specific disk
 08-28-17: Updated for PS gallery
 
+.PRIVATEDATA 
+
 #> 
+
+
 
 <#
 .SYNOPSIS
