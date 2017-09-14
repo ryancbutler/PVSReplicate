@@ -12,9 +12,9 @@
 
 .TAGS Citrix PVS Replicate vDisk Import Export
 
-.LICENSEURI https://github.com/ryancbutler/XDReplicate/blob/master/License.txt
+.LICENSEURI https://github.com/ryancbutler/PVSReplicate/blob/master/License.txt
 
-.PROJECTURI https://github.com/ryancbutler/XDReplicate
+.PROJECTURI https://github.com/ryancbutler/PVSReplicate
 
 .ICONURI 
 
@@ -30,6 +30,7 @@
 07-27-17: Added 'JustAdmin' switch to only replicate to single server
 07-27-17: Added 'disk' argument to copy specific disk
 08-28-17: Updated for PS gallery
+09-14-17: Moved repo
 
 #> 
 

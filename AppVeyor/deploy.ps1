@@ -1,3 +1,8 @@
+[CmdletBinding()]
+param(
+    
+)
+
 # Line break for readability in AppVeyor console
 Write-Host -Object ''
 Import-Module posh-git -Force
